@@ -1,2 +1,2 @@
 # Custom folder content repository
-This is the content of Custom folder of project
+This is the content of Custom folder of Gamedev project
